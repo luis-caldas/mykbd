@@ -1,1 +1,33 @@
-{"keyboard":"ymdk/ymd09","keymap":"ymdk_09","layout":"LAYOUT","layers":[["KC_MPRV","KC_MPLY","KC_MNXT","KC_VOLD","LT(1,KC_MSTP)","KC_VOLU","KC_MYCM","KC_MAIL","KC_PSCR"],["RGB_RMOD","RGB_VAI","RGB_MOD","RGB_HUI","KC_TRNS","RGB_SAI","RGB_HUD","RGB_VAD","RGB_SAD"]],"author":"","notes":""}
+{
+  "version": 1,
+  "notes": "",
+  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
+  "keyboard": "ymdk/ymd09",
+  "keymap": "ymdk_09",
+  "layout": "LAYOUT",
+  "layers": [
+    [
+      "KC_MPRV",
+      "KC_MPLY",
+      "KC_MNXT",
+      "KC_VOLD",
+      "LT(1,KC_MSTP)",
+      "KC_VOLU",
+      "KC_MYCM",
+      "KC_MAIL",
+      "KC_PSCR"
+    ],
+    [
+      "RGB_RMOD",
+      "RGB_VAI",
+      "RGB_MOD",
+      "RGB_HUI",
+      "KC_TRNS",
+      "RGB_SAI",
+      "RGB_HUD",
+      "RGB_VAD",
+      "RGB_SAD"
+    ]
+  ],
+  "author": ""
+}
